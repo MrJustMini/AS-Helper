@@ -1,4 +1,4 @@
-# AS Helper___
+# AS Helper
 [Скачать автоматический установщик](https://github.com/MrJustMini/AS-Helper/blob/main/AS%20Helper.exe?raw=true)
 
 [Скачать архив для ручной установки](https://github.com/MrJustMini/AS-Helper/blob/main/AS%20Helper.zip?raw=true)
@@ -62,4 +62,3 @@ ____
 ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
-
