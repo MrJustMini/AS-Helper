@@ -1,5 +1,4 @@
-# Adev Addon
-![](http://sun9-63.userapi.com/impf/c855320/v855320539/234110/vgRS5CxXpTs.jpg?size=1590x400&quality=95&crop=0,0,1590,400&sign=a0a5d9898722901b8fa1312610b7b5a4&type=cover_group)
+# AS Helper
 ____
 [Скачать автоматический установщик](https://github.com/MrJustMini/AS-Helper/blob/main/Adev%20Addon.exe?raw=true)
 
