@@ -1,5 +1,6 @@
 # AS Helper
 ![](https://i.imgur.com/5vZO0bd.png)
+## Удобный помощник, который облегчит Вам работу в Автошколе.
 ____
 [Скачать автоматический установщик](https://github.com/MrJustMini/AS-Helper/blob/main/AS%20Helper.exe?raw=true)
 
