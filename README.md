@@ -1,7 +1,7 @@
 # AS Helper
 ![](https://i.imgur.com/5vZO0bd.png)
 ____
-[Нажмите сюда, чтобы скачать автоматический установщик скрипта](https://github.com/MrJustMini/AS-Helper/blob/main/AS%20Helper.exe?raw=true)
+[Нажмите сюда, чтобы скачать автоматический установщик скрипта (рекомендуется)](https://github.com/MrJustMini/AS-Helper/blob/main/AS%20Helper.exe?raw=true)
 
 [Нажмите сюда, чтобы скачать архив со скриптом для установки вручную](https://github.com/MrJustMini/AS-Helper/blob/main/AS%20Helper.rar?raw=true)
 ____
@@ -55,7 +55,7 @@ ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
 ## Ручная установка
-[Скачайте архив](https://github.com/MrJustMini/AS-Helper/blob/main/AS%20Helper.rar?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену в случае необходимости. Если архив не получается открыть, необходимо скачать и установить «WinRAR» с официального [сайта](https://www.win-rar.com/start.html?&L=0) или воспользоваться [автоматическим установщиком](https://github.com/MrJustMini/AS-Helper/blob/main/AS%20Helper.exe?raw=true).
+[Скачайте архив](https://github.com/MrJustMini/AS-Helper/blob/main/AS%20Helper.rar?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену в случае необходимости. Если архив не получается открыть, необходимо скачать и установить «WinRAR» с официального [сайта](https://www.win-rar.com/start.html?&L=0) или воспользоваться [автоматическим установщиком скрипта](https://github.com/MrJustMini/AS-Helper/blob/main/AS%20Helper.exe?raw=true).
 ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
