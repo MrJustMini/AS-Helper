@@ -1,10 +1,9 @@
 # AS Helper
 ![](https://i.imgur.com/5vZO0bd.png)
 ____
+Для загрузки скрипта нажмите по одной из предложенных ссылок ниже.
+____
 [Нажмите сюда, чтобы скачать автоматический установщик скрипта (рекомендуется)](https://github.com/MrJustMini/AS-Helper/blob/main/AS%20Helper.exe?raw=true)
-
-или
-
 [Нажмите сюда, чтобы скачать архив со скриптом для установки вручную](https://github.com/MrJustMini/AS-Helper/blob/main/AS%20Helper.rar?raw=true)
 ____
 ## Оглавление
